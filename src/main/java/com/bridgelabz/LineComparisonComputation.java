@@ -1,4 +1,4 @@
-package org.example;
+package com.bridgelabz;
 
 public class LineComparisonComputation {
     public static void main(String[] args) {
